@@ -26,5 +26,5 @@ A few open source projects I work on
 I am also an active user of FEniCS and are working on adopting several of my packages to FEniCSx including
 - [simcardems](https://github.com/ComputationalPhysiology/simcardems) - *Simula Cardiac ElectroMechanics Solver* (FEniCSx version is coming in the future)
 - [pulse](https://github.com/finsberg/pulse) and [pulsex](https://github.com/finsberg/pulsex) - *Simulation software for cardiac mechanics*
-- [fenics-plotly](https://github.com/finsberg/fenics-plotly) and [fenicsx-plotly](https://github.com/finsberg/fenics-plotly) *Library for plotting object with plotly*
+- [fenics-plotly](https://github.com/finsberg/fenics-plotly) and [fenicsx-plotly](https://github.com/finsberg/fenicsx-plotly) *Library for plotting object with plotly*
 - [ldrb](https://github.com/finsberg/ldrb) - *Library for creating rule-based fiber orientations* (FEniCSx version is coming in the future)
