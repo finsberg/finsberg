@@ -18,7 +18,7 @@ A few open source projects I work on
 - [ap_features](https://github.com/ComputationalPhysiology/ap_features) - *Library for computing features for action potential traces*
 - [mps](https://github.com/ComputationalPhysiology/mps) - *Tool for working with cardiac MPS data*
 - [mps-motion](https://github.com/ComputationalPhysiology/mps-motion) - *Motion tracking software for cardiac MPS data*
-- [gotran](https://github.com/ComputationalPhysiology/gotran) - *Library for declaring and translating ODEs*
+- [gotranx](https://github.com/finsber/gotranx) - *Library for declaring and translating ODEs*
 - [goss](https://github.com/ComputationalPhysiology/goss) - *General ODE system solver*
 
 ----
@@ -27,4 +27,5 @@ I am also an active user of FEniCS and are working on adopting several of my pac
 - [simcardems](https://github.com/ComputationalPhysiology/simcardems) - *Simula Cardiac ElectroMechanics Solver* (FEniCSx version is coming in the future)
 - [fenics-pulse](https://github.com/finsberg/pulse) and [fenicsx-pulse](https://github.com/finsberg/fenicsx-pulse) - *Simulation software for cardiac mechanics*
 - [fenics-plotly](https://github.com/finsberg/fenics-plotly) and [fenicsx-plotly](https://github.com/finsberg/fenicsx-plotly) *Library for plotting object with plotly*
-- [ldrb](https://github.com/finsberg/ldrb) - *Library for creating rule-based fiber orientations* (FEniCSx version is coming in the future)
+- [fenics-ldrb](https://github.com/finsberg/ldrb) anx [fenicsx-ldrb](https://github.com/finsberg/fenicsx-ldrb) - *Library for creating rule-based fiber orientations* 
+- [cardiac-geometries](https://github.com/ComputationalPhysiology/cardiac-geometries) anx [cardiac-geometriesx](https://github.com/ComputationalPhysiology/cardiac-geometriesx) - *Library for generating idealized cardiac geometries*
