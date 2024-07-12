@@ -29,3 +29,7 @@ I am also an active user of FEniCS and are working on adopting several of my pac
 - [fenics-plotly](https://github.com/finsberg/fenics-plotly) and [fenicsx-plotly](https://github.com/finsberg/fenicsx-plotly) *Library for plotting object with plotly*
 - [fenics-ldrb](https://github.com/finsberg/ldrb) anx [fenicsx-ldrb](https://github.com/finsberg/fenicsx-ldrb) - *Library for creating rule-based fiber orientations* 
 - [cardiac-geometries](https://github.com/ComputationalPhysiology/cardiac-geometries) anx [cardiac-geometriesx](https://github.com/ComputationalPhysiology/cardiac-geometriesx) - *Library for generating idealized cardiac geometries*
+
+----
+
+![stats](https://github-readme-stats.vercel.app/api?username=finsberg&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400)
