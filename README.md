@@ -18,7 +18,7 @@ A few open source projects I work on
 - [ap_features](https://github.com/ComputationalPhysiology/ap_features) - *Library for computing features for action potential traces*
 - [mps](https://github.com/ComputationalPhysiology/mps) - *Tool for working with cardiac MPS data*
 - [mps-motion](https://github.com/ComputationalPhysiology/mps-motion) - *Motion tracking software for cardiac MPS data*
-- [gotranx](https://github.com/finsber/gotranx) - *Library for declaring and translating ODEs*
+- [gotranx](https://github.com/finsberg/gotranx) - *Library for declaring and translating ODEs*
 - [goss](https://github.com/ComputationalPhysiology/goss) - *General ODE system solver*
 
 ----
