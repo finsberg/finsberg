@@ -1,7 +1,7 @@
 
 [![My PyPI packages](https://img.shields.io/badge/-PyPI%20packages-4B8BBE?style=flat&labelColor=306998&logo=python&logoColor=FFE873&link=https%3A%2F%2Fpypi.org%2Fuser%2Ffinsberg "My PyPI packages")](https://pypi.org/user/finsberg)
 
-I'm **Henrik Finsberg**, a Senior Research Engineer working at [Simula Research Laboratory](https://www.simula.no) in department of [Computational Physiology](https://www.simula.no/research/projects/department-computational-physiology) in Oslo, Norway🇳🇴.
+I'm **Henrik Finsberg**, a Chief Research Engineer working at [Simula Research Laboratory](https://www.simula.no) in department of [Computational Physiology](https://www.simula.no/research/projects/department-computational-physiology) in Oslo, Norway🇳🇴.
 
 I care about reproducibility and good software design. I work primarily with Python but also do some work with JavaScript, C and C++.
 Recently, I am also trying to pick up Rust.
