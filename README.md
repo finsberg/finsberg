@@ -33,4 +33,4 @@ I am also an active user of FEniCS and are working on adopting several of my pac
 
 ----
 
-![stats](https://github-readme-stats.vercel.app/api?username=finsberg&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400)
+![stats](stats.svg)
