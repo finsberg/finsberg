@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Henrik Finsberg's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 176, Total Commits  : 13372, Total PRs: 1224, Total Issues: 264, Contributed to (last year): 65</desc>
+        <desc id="descId">Total Stars Earned: 176, Total Commits  : 13383, Total PRs: 1224, Total Issues: 264, Contributed to (last year): 65</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 20.312292950681453;
+        stroke-dashoffset: 20.31226293978002;
       }
     }
   
